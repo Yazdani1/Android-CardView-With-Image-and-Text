@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Cardview</string>
+
+    <string name="title">This is my First card view</string>
+
+    <string name="description">Now that we have added the build dependencies to project, let us go ahead to declare the
+        CardView layout. In this example, we will add an ImageView and two TextViews
+        CardView layout. In this example, we will add an ImageView and two TextViews
+        as shown in the following screenshot.</string>
+</resources>
